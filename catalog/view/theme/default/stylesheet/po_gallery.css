@@ -1,0 +1,138 @@
+.po_gallery {
+	width: 100%;
+	font-size: 16px;
+	display: inline-block;
+}
+.po_gallery > .album {
+	float: left;
+	text-align: center;
+	margin-bottom: 10px;
+	line-height: 18px !important;
+}
+.po_gallery > .album a {
+	text-decoration: none;
+	font-weight: 400;
+	color: #808080;
+}
+.po_gallery .album > .rating {
+	width: 90px;
+	height: 18px;
+	margin: auto;
+}
+.album-info {
+	overflow: auto;
+	margin-bottom: 20px;
+}
+.album-info > .left {
+	width: 530px;
+	float: left;
+	margin-right: 10px;
+}
+.album-info > .right {
+	/*width:456px;*/
+	float: left;
+}
+.album-info .image {} .album-info .square {
+	width: 530px;
+	height: 530px;
+	background: url(../image/po_gallery/po-gallery-square.png) no-repeat;
+}
+.album-info .square img {
+	margin: 16px 0px 0px 16px;
+	top: 11px;
+	left: 13px;
+	position: relative;
+}
+.album-info .image-additional {
+	/* width: 456px !important;*/
+	width: auto !important;
+}
+.album-info .rectangular {
+	width: 380px;
+	height: 298px;
+	background: url(../image/po_gallery/po-gallery-rectangular.png) no-repeat;
+}
+.album-info .rectangular img {
+	margin: 24px 0px 0px 21px;
+}
+.album-info .image-additional {
+	width: 380px;
+	margin-left: -10px;
+	clear: both;
+	overflow: hidden;
+}
+.album-info .image-additional img {
+	border: 1px solid #E7E7E7;
+	padding: 2px;
+}
+.album-info .image-additional a {
+	float: left;
+	display: block;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.square-200 {
+	background: url(../image/po_gallery/po-gallery-square-200.png) no-repeat;
+	width: 226px;
+	height: 226px;
+	margin: auto;
+}
+.square-200 img {
+	margin-top: 14px;
+	margin-left: 1px;
+}
+.square-160 {
+	background: url(../image/po_gallery/po-gallery-square-160.png) no-repeat;
+	width: 183px;
+	height: 183px;
+	margin: auto;
+}
+.square-160 img {
+	margin-top: 11px;
+}
+.square-120 {
+	background: url(../image/po_gallery/po-gallery-square-120.png) no-repeat;
+	width: 140px;
+	height: 140px;
+	margin: auto;
+}
+.square-120 img {
+	margin-top: 10px;
+}
+.rectangular-200 {
+	background: url(../image/po_gallery/po-gallery-rectangular-200.png) no-repeat;
+	width: 226px;
+	height: 177px;
+	margin: auto;
+}
+.rectangular-200 img {
+	margin-top: 14px;
+}
+.rectangular-160 {
+	background: url(../image/po_gallery/po-gallery-rectangular-160.png) no-repeat;
+	width: 184px;
+	height: 143px;
+	margin: auto;
+}
+.rectangular-160 img {
+	margin-top: 12px;
+}
+.rectangular-120 {
+	background: url(../image/po_gallery/po-gallery-rectangular-120.png) no-repeat;
+	width: 140px;
+	height: 109px;
+	margin: auto;
+}
+.rectangular-120 img {
+	margin-top: 10px;
+}
+.po-gallery-font-16 a {
+	font-size: 16px;
+}
+.po-gallery-font-18 a {
+	font-size: 16px;
+	line-height: 18px !important;
+}
+.po-gallery-font-20 a {
+	font-size: 20px;
+}

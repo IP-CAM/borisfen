@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<order id="222">
+	<date>2015-02-04 19:49:36</date>
+	<name>Dima zimovec</name>
+	<products>
+		<product>
+			<tovarNo>26037</tovarNo>
+			<quantity>0</quantity>
+			<total></total>
+			<discount>100</discount>
+			<division>4</division>
+			<sklad>103</sklad>
+		</product>
+		<product>
+			<tovarNo>22862</tovarNo>
+			<quantity>1</quantity>
+			<total>21.98</total>
+			<discount>0</discount>
+			<division>4</division>
+			<sklad>103</sklad>
+		</product>
+	</products>
+</order>

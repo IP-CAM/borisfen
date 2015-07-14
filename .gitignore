@@ -1,0 +1,14 @@
+.buildpath
+.project 
+.settings/
+/pagecache/cachefiles/*.gz
+/.project
+/orders_export
+.idea/*
+.idea
+/.idea/
+/image/data/
+/image/cache/data/
+/config.php
+/admin/config.php
+/nbproject/private/

@@ -1,0 +1,1 @@
+<a href="<?php echo $url?>"><?if($menu['icon']):?><img src="<?=$menu['icon']?>" alt="<?php echo $menu['name']?>"><?endif;?><span><?php echo $menu['name']?></span></a>

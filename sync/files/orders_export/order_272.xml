@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<order id="272">
+	<date>2015-04-20 12:42:30</date>
+	<name></name>
+	<products>
+		<product>
+			<tovarNo>27174</tovarNo>
+			<quantity>1</quantity>
+			<total>484</total>
+			<discount>0</discount>
+			<division>4</division>
+			<sklad>122</sklad>
+		</product>
+	</products>
+</order>
